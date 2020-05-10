@@ -1,0 +1,1 @@
+See https://medium.com/@jeremy455576/linebot-2-0-with-django-complete-tutorial-echo-bot-saving-userprofile-two-page-richmenu-ca15d9f8ae4c.

@@ -1,0 +1,5 @@
+venv
+.vscode
+staticfiles
+__pycache__
+RichMenu
